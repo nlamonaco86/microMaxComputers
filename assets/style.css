@@ -1,0 +1,23 @@
+.bg {
+    background-color: rgb(250, 250, 250)
+  }
+
+.shadow{
+    shadow: 3px 3px gray
+}
+
+.w{
+    background-color: white
+}
+
+p{
+    text-indent: 45px;
+}
+
+h {
+    min-height: 1000px;
+  }
+
+.pad{
+    padding: 10px;
+}
