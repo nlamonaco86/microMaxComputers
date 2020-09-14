@@ -7,4 +7,4 @@ Nicholas La Monaco
 
 Mobile-first, responsive, built using Bootstrap/JQuery
 
-!(Micro Max)[assets/screenshot.jpg]
+![Micro Max](./assets/screenshot.jpg)
