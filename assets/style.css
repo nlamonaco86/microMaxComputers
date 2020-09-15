@@ -14,9 +14,13 @@ p{
     text-indent: 45px;
 }
 
-h {
-    min-height: 1000px;
-  }
+.purp{
+        color: #DB5ABA
+}
+ 
+.h{
+min-height: 370px;
+}
 
 .pad{
     padding: 10px;
