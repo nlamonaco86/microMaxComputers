@@ -18,9 +18,13 @@ p{
         color: #DB5ABA
 }
  
-.h{
+.rh1{
 min-height: 370px;
 }
+
+.rh2{
+    min-height: 260px;
+    }
 
 .pad{
     padding: 10px;
