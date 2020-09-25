@@ -19,13 +19,29 @@ p{
 }
  
 .rh1{
-min-height: 370px;
+min-height: 390px;
 }
 
 .rh2{
-    min-height: 260px;
+    min-height: 340px;
     }
+
 
 .pad{
     padding: 10px;
+}
+
+.padtop{
+    padding-top: 35px
+}
+.padtop2{
+    padding-top: 20px
+}
+
+.blue-text {
+    color: rgb(54, 54, 219)
+}
+
+.bg-blue {
+    background-color: rgb(54, 54, 219)
 }
