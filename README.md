@@ -1,10 +1,10 @@
 # microMaxComputers
 
 Nicholas La Monaco
-9/14/2020
+11/14/2020
 
 ## Customer Website
 
-Mobile-first, responsive, built using Bootstrap/JQuery
+Mobile-first, responsive web site built using a Start Bootstrap template for a local business. 
 
 ![Micro Max](./assets/screenshot.jpg)
