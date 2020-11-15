@@ -7,4 +7,4 @@ Nicholas La Monaco
 
 Mobile-first, responsive web site built using a Start Bootstrap template for a local business. 
 
-![Micro Max](./assets/screenshot.jpg)
+![Micro Max](./assets/screenshot.png)
